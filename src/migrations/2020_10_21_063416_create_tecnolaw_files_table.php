@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateGuxFilesTable extends Migration
+class CreateTecnolawFilesTable extends Migration
 {
     /**
      * Schema table name to migrate
